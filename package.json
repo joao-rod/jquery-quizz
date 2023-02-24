@@ -1,0 +1,16 @@
+{
+  "name": "json-server-database",
+  "version": "1.0.0",
+  "description": "JsonServer as a database for the evaluative activity of the Web Development discipline",
+  "main": "server.js",
+  "scripts": {
+    "backend": "node server.js",
+    "backend1": "npx json-server --watch backend/db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
