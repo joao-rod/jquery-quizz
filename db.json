@@ -5,5 +5,23 @@
       "name": "",
       "score": 0
     }
+  ],
+
+  "answers": [
+    {
+      "id": 0,
+      "question": "First question",
+      "correct_alternative": "a"
+    }
+  ],
+
+  "responses": [
+    {
+      "id": 0,
+      "a": "Alternative a",
+      "b": "Alternative b",
+      "c": "Alternative c",
+      "d": "Alternative d"
+    }
   ]
 }
