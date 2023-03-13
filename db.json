@@ -96,7 +96,7 @@
       "correct_alternative": 0
     },
     {
-      "id": 7,
+      "id": 8,
       "question": "O que é responsive design?",
       "alternatives": [
         "Uma técnica de desenvolvimento que torna as páginas web mais rápidas de carregar.",
@@ -107,7 +107,7 @@
       "correct_alternative": 1
     },
     {
-      "id": 7,
+      "id": 9,
       "question": "O que é SEO?",
       "alternatives": [
         "Uma técnica de desenvolvimento que torna as páginas web mais seguras contra ataques.",
