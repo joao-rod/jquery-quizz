@@ -6,22 +6,116 @@
       "score": 0
     }
   ],
-
   "answers": [
     {
       "id": 0,
-      "question": "First question",
-      "correct_alternative": "a"
-    }
-  ],
-
-  "responses": [
+      "question": "O que é HTML?",
+      "alternatives": [
+        "Uma linguagem de programação de back-end.",
+        "Uma linguagem de programação de front-end.",
+        "Uma linguagem de marcação usada para estruturar conteúdo em páginas web.",
+        "Um sistema de gerenciamento de conteúdo."
+      ],
+      "correct_alternative": 2
+    },
     {
-      "id": 0,
-      "a": "Alternative a",
-      "b": "Alternative b",
-      "c": "Alternative c",
-      "d": "Alternative d"
+      "id": 1,
+      "question": "O que é CSS?",
+      "alternatives": [
+        "Uma linguagem de programação de back-end.",
+        "Uma linguagem de programação de front-end.",
+        "Uma linguagem de marcação usada para estruturar conteúdo em páginas web.",
+        "Uma linguagem de estilização usada para alterar a aparência visual de páginas web."
+      ],
+      "correct_alternative": 3
+    },
+    {
+      "id": 2,
+      "question": "O que é JavaScript?",
+      "alternatives": [
+        "Uma linguagem de programação usada para criar interatividade em páginas web.",
+        "Uma linguagem de programação de front-end.",
+        "Uma linguagem de marcação usada para estruturar conteúdo em páginas web.",
+        "Um sistema de gerenciamento de conteúdo."
+      ],
+      "correct_alternative": 0
+    },
+    {
+      "id": 3,
+      "question": "O que é CMS?",
+      "alternatives": [
+        "Um sistema de gerenciamento de banco de dados.",
+        "Um sistema de gerenciamento de conteúdo.",
+        "Uma ferramenta de gerenciamento de servidores.",
+        "Uma linguagem de programação para criar páginas web."
+      ],
+      "correct_alternative": 1
+    },
+    {
+      "id": 4,
+      "question": "O que é jQuery?",
+      "alternatives": [
+        "Uma biblioteca JavaScript que simplifica a manipulação de documentos HTML e CSS.",
+        "Uma linguagem de programação de back-end.",
+        "Um sistema de gerenciamento de conteúdo para websites.",
+        "Um software para desenvolvimento de aplicativos móveis."
+      ],
+      "correct_alternative": 0
+    },
+    {
+      "id": 5,
+      "question": "Para que serve o método fadeIn() do jQuery?",
+      "alternatives": [
+        "Para esconder um elemento da página.",
+        "Para tornar um elemento da página completamente opaco.",
+        "Para tornar um elemento gradualmente mais visível, aumentando sua opacidade.",
+        "Para diminuir o tamanho de um elemento da página."
+      ],
+      "correct_alternative": 2
+    },
+    {
+      "id": 6,
+      "question": "O que é um servidor web?",
+      "alternatives": [
+        "Um software que interpreta e executa os scripts de uma página web.",
+        "Um software que gerencia a exibição de imagens em uma página web.",
+        "Um computador que armazena e disponibiliza páginas web para acesso pela internet.",
+        "Um software que cria animações em uma página web."
+      ],
+      "correct_alternative": 2
+    },
+    {
+      "id": 7,
+      "question": "O que é um framework de desenvolvimento web?",
+      "alternatives": [
+        "Um conjunto de ferramentas e bibliotecas que facilitam o desenvolvimento de aplicações web.",
+        "Um software que permite a criação de imagens vetoriais para uso em páginas web.",
+        "Um software que simplifica a criação de animações em páginas web.",
+        "Um conjunto de servidores que trabalham em conjunto para fornecer páginas web para usuários."
+      ],
+      "correct_alternative": 0
+    },
+    {
+      "id": 7,
+      "question": "O que é responsive design?",
+      "alternatives": [
+        "Uma técnica de desenvolvimento que torna as páginas web mais rápidas de carregar.",
+        "Uma técnica de desenvolvimento que cria páginas web que se adaptam automaticamente a diferentes tamanhos de tela.",
+        "Uma técnica de desenvolvimento que utiliza linguagens de programação específicas para aumentar a segurança de páginas web.",
+        "Uma técnica de desenvolvimento que utiliza animações e transições para tornar as páginas web mais atraentes."
+      ],
+      "correct_alternative": 1
+    },
+    {
+      "id": 7,
+      "question": "O que é SEO?",
+      "alternatives": [
+        "Uma técnica de desenvolvimento que torna as páginas web mais seguras contra ataques.",
+        "Uma técnica de desenvolvimento que melhora o desempenho de páginas web em dispositivos móveis.",
+        "Uma técnica de desenvolvimento que torna as páginas web mais acessíveis para pessoas com deficiência visual.",
+        "Uma técnica de desenvolvimento que aumenta a visibilidade de uma página web nos resultados de busca orgânica do Google."
+      ],
+      "correct_alternative": 3
     }
   ]
 }
